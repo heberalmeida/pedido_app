@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pedido_app/static/css/main.a5bddcd5.css",
+    "main.js": "/pedido_app/static/js/main.a0ceb95e.js",
+    "static/js/453.06dfa778.chunk.js": "/pedido_app/static/js/453.06dfa778.chunk.js",
+    "static/media/pix.svg": "/pedido_app/static/media/pix.66c96fdbeb55b600bd8869cbad2482bb.svg",
+    "static/media/cash.svg": "/pedido_app/static/media/cash.348a500c747195eddb40b3b081a341b4.svg",
+    "index.html": "/pedido_app/index.html",
+    "static/media/processing.svg": "/pedido_app/static/media/processing.782b369ef5f18520b75d5614e7cf1a0e.svg",
+    "static/media/sair.svg": "/pedido_app/static/media/sair.3882de3ebb4951352900587e2175ebe6.svg",
+    "static/media/link.svg": "/pedido_app/static/media/link.062fb1ffe019e5cabe9bdd60c4822ced.svg",
+    "static/media/success.svg": "/pedido_app/static/media/success.72397bf6232ceb60de120626b1260284.svg",
+    "static/media/credit-card.svg": "/pedido_app/static/media/credit-card.5d621f5bc68d73cdf3bc462b33d4d60b.svg",
+    "static/media/back.svg": "/pedido_app/static/media/back.53b32e9734932a556219712b28b54e41.svg",
+    "main.a5bddcd5.css.map": "/pedido_app/static/css/main.a5bddcd5.css.map",
+    "main.a0ceb95e.js.map": "/pedido_app/static/js/main.a0ceb95e.js.map",
+    "453.06dfa778.chunk.js.map": "/pedido_app/static/js/453.06dfa778.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5bddcd5.css",
+    "static/js/main.a0ceb95e.js"
+  ]
+}
