@@ -1,6 +1,11 @@
-import axios from 'axios';
+import api from './api';
 
 export const getApplications = async () => {
-    const response = await axios.get('https://api-pedido-erp-gateway-prod.saurus.net.br/api/v2/aplicacoes');
+  try {
+    const response = await api.get('/aplicacoes');
     return response.data;
+  } catch (error) {
+    console.error('Erro ao buscar aplicações', error);
+    throw error;
+  }
 };

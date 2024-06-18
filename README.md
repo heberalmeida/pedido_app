@@ -58,4 +58,4 @@ Esta aplicação permite consultar pedidos pendentes, selecionar pedidos para pa
    ### Demonstração
 
 Você pode acessar a demonstração da aplicação através do seguinte link:
-[https://heberalmeida.github.io/pedido_app](https://heberalmeida.github.io/pedido_app)
+[https://pedidos.heber.com.br](https://pedidos.heber.com.br)

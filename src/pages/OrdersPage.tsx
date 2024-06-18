@@ -91,7 +91,7 @@ const OrdersPage: React.FC = () => {
                     <input
                         type="text"
                         name="CpfCnpj"
-                        placeholder="Filtrar por CNPJ"
+                        placeholder="CNPJ"
                         value={filters.CpfCnpj}
                         onChange={handleFilterChange}
                         className="p-2 border border-gray-300 rounded w-full"
@@ -99,7 +99,7 @@ const OrdersPage: React.FC = () => {
                     <input
                         type="text"
                         name="Nome"
-                        placeholder="Filtrar por Nome"
+                        placeholder="Nome"
                         value={filters.Nome}
                         onChange={handleFilterChange}
                         className="p-2 border border-gray-300 rounded w-full"
@@ -107,7 +107,7 @@ const OrdersPage: React.FC = () => {
                     <input
                         type="text"
                         name="CodCliente"
-                        placeholder="Filtrar por Código"
+                        placeholder="Código"
                         value={filters.CodCliente}
                         onChange={handleFilterChange}
                         className="p-2 border border-gray-300 rounded w-full"
